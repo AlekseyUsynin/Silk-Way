@@ -1,0 +1,31 @@
+@import url("../../blocks/card/__type/card__type.css");
+
+@import url("../../blocks/card/__title/card__title.css");
+
+@import url("../../blocks/card/__image/card__image.css");
+
+@import url("../../blocks/card/__news-elements/card__news-elements.css");
+
+@import url("../../blocks/card/__news-element/card__news-element.css");
+
+@import url("../../blocks/card/__key-icon/card__key-icon.css");
+
+@import url("../../blocks/card/__clock-icon/card__clock-icon.css");
+
+@import url("../../blocks/card/__car-icon/card__car-icon.css");
+
+@import url("../../blocks/card/__canister-icon/card__canister-icon.css");
+
+@import url("../../blocks/card/__flag-icon/card__flag-icon.css");
+
+@import url("../../blocks/card/__venue/card__venue.css");
+
+@import url("../../blocks/card/__venue-bold/card__venue-bold.css");
+
+.card {
+  margin-bottom: 35px;
+  max-width: 370px;
+  background-color: #fff;
+  border-radius: 20px;
+  text-decoration: none;
+}

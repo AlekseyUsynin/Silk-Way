@@ -1,0 +1,10 @@
+.header__event-date {
+  width: 196px;
+  height: 108px;
+  position: absolute;
+  top: 25px;
+  right: 0;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+}

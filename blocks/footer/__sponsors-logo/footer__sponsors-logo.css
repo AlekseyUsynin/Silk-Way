@@ -1,0 +1,7 @@
+.footer__sponsors-logo {
+  margin: 0 auto;
+  padding-top: 33px;
+  width: 454px;
+  display: flex;
+  justify-content: space-between;
+}

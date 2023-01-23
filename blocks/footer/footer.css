@@ -1,0 +1,15 @@
+@import url("../../blocks/footer/__sponsors-logo/footer__sponsors-logo.css");
+
+@import url("../../blocks/footer/__gazpromneft-logo/footer__gazpromneft-logo.css");
+
+@import url("../../blocks/footer/__g-drive-logo/footer__g-drive-logo.css");
+
+@import url("../../blocks/footer/__g-energy-logo/footer__g-energy-logo.css");
+
+@import url("../../blocks/footer/__copyright/footer__copyright.css");
+
+.footer {
+  max-width: 1440px;
+  min-height: 180px;
+  padding-top: 17px;
+}

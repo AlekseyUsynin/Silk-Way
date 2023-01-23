@@ -1,0 +1,8 @@
+.header__event-logo {
+  padding-left: 18px;
+  background-image: url(../../../images/header-event-logo.svg);
+  background-repeat: no-repeat;
+  background-position: right;
+  width: 74px;
+  height: 57px;
+}

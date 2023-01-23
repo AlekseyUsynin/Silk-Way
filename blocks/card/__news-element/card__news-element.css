@@ -1,0 +1,6 @@
+.card__news-element {
+  display: grid;
+  grid-template-columns: 60px 1fr;
+  gap: 10px;
+  text-decoration: none;
+}

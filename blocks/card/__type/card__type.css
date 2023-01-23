@@ -1,0 +1,10 @@
+.card__type {
+  margin: 0;
+  padding: 20px 25px 0 35px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 15px;
+  color: #e9530e;
+  text-transform: uppercase;
+}

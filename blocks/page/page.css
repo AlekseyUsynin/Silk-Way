@@ -1,0 +1,8 @@
+.page {
+  margin: 0 auto;
+  max-width: 1440px;
+  background-image: url(../../images/header-buggy.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  font-family: "Geometria", sans-serif;
+}

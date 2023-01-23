@@ -1,0 +1,10 @@
+.header__route {
+  margin: 162px 81px 0 20px;
+  background-image: url(../../../images/header-route.png);
+  min-width: 280px;
+  width: 427px;
+  height: 451px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}

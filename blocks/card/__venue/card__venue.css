@@ -1,0 +1,9 @@
+.card__venue {
+  margin: 0;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  align-self: center;
+  color: #000;
+}
