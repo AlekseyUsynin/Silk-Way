@@ -6,3 +6,12 @@
   background-repeat: no-repeat;
   font-family: "Geometria", sans-serif;
 }
+
+/* @media screen and (max-width: 1023px) {
+  .page {
+    object-fit: cover;
+    object-position: 0 0;
+    background-position: top center;
+    background-repeat: no-repeat;
+  }
+} */

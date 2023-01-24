@@ -8,6 +8,10 @@
 
 @import url("../../blocks/card/__news-element/card__news-element.css");
 
+@import url("../../blocks/card/_desktop-element/card_desktop-element.css");
+
+@import url("../../blocks/card/_mobile-element/card_mobile-element.css");
+
 @import url("../../blocks/card/__key-icon/card__key-icon.css");
 
 @import url("../../blocks/card/__clock-icon/card__clock-icon.css");
@@ -17,6 +21,8 @@
 @import url("../../blocks/card/__canister-icon/card__canister-icon.css");
 
 @import url("../../blocks/card/__flag-icon/card__flag-icon.css");
+
+@import url("../../blocks/card/__grey-icon/card__grey-icon.css");
 
 @import url("../../blocks/card/__venue/card__venue.css");
 

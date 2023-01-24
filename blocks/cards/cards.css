@@ -9,9 +9,16 @@
   flex-direction: column;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (min-width: 1024px) and (max-width: 1200px) {
   .cards {
     max-width: 810px;
     max-height: 1780px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .cards {
+    justify-content: center;
+    display: grid;
   }
 }
