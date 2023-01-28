@@ -5,3 +5,11 @@
   background-repeat: no-repeat;
   background-position: bottom;
 }
+
+@media screen and (max-width: 859px) {
+  .footer__g-drive-logo {
+    width: 69px;
+    height: 24px;
+    background-size: contain;
+  }
+}

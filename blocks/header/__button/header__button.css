@@ -12,3 +12,9 @@
   border: 0;
   border-radius: 5px;
 }
+
+@media screen and (max-width: 1023px) {
+  .header__button {
+    margin-top: 29px;
+  }
+}

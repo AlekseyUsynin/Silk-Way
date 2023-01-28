@@ -1,17 +1,5 @@
 .page {
-  margin: 0 auto;
-  max-width: 1440px;
-  background-image: url(../../images/header-buggy.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
+  background: #2b2420;
+  overflow: hidden;
   font-family: "Geometria", sans-serif;
 }
-
-/* @media screen and (max-width: 1023px) {
-  .page {
-    object-fit: cover;
-    object-position: 0 0;
-    background-position: top center;
-    background-repeat: no-repeat;
-  }
-} */

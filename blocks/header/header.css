@@ -1,10 +1,12 @@
+@import url("../../blocks/header/__car-background/header__car-background.css");
+
 @import url("../../blocks/header/__logo/header__logo.css");
 
 @import url("../../blocks/header/__event-date/header__event-date.css");
 
 @import url("../../blocks/header/__decorative-element/header__decorative-element.css");
 
-@import url("../../blocks/header/__date/header__date.css");
+@import url("../../blocks/header/__dates/header__dates.css");
 
 @import url("../../blocks/header/__month/header__month.css");
 
@@ -24,5 +26,6 @@
 
 .header {
   margin: 0 auto;
+  max-width: 1440px;
   position: relative;
 }

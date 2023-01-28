@@ -3,8 +3,16 @@
   height: 108px;
   position: absolute;
   top: 25px;
-  right: 0;
+  right: 0px;
   overflow: hidden;
   display: flex;
   flex-wrap: wrap;
+}
+
+@media screen and (max-width: 600px) {
+  .header__event-date {
+    top: -5px;
+    width: 136px;
+    height: 93px;
+  }
 }

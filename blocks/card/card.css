@@ -8,9 +8,9 @@
 
 @import url("../../blocks/card/__news-element/card__news-element.css");
 
-@import url("../../blocks/card/_desktop-element/card_desktop-element.css");
+@import url("../../blocks/card/_desktop-version/card_desktop-version.css");
 
-@import url("../../blocks/card/_mobile-element/card_mobile-element.css");
+@import url("../../blocks/card/_mobile-version/card_mobile-version.css");
 
 @import url("../../blocks/card/__key-icon/card__key-icon.css");
 
@@ -29,9 +29,10 @@
 @import url("../../blocks/card/__venue-bold/card__venue-bold.css");
 
 .card {
-  margin-bottom: 35px;
   max-width: 370px;
-  background-color: #fff;
+  background: #fff;
   border-radius: 20px;
   text-decoration: none;
+  z-index: 1;
+  overflow: hidden;
 }

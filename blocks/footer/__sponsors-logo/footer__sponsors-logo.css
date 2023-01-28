@@ -5,3 +5,9 @@
   display: flex;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 859px) {
+  .footer__sponsors-logo {
+    width: 276px;
+  }
+}
