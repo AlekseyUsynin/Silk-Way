@@ -2,7 +2,6 @@
   position: absolute;
   top: 61px;
   left: 130px;
-  background-image: url(../../../images/header-logo.svg);
   width: 371px;
   height: 60px;
   background-repeat: no-repeat;
@@ -14,7 +13,7 @@
     position: absolute;
     top: 30px;
     left: 30px;
-    background-image: url(../../../images/header-logo-mobile.svg);
+    content: url(../../../images/header-logo-mobile.svg);
     width: 120px;
     height: 46px;
   }

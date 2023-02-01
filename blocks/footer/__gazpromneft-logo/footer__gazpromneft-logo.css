@@ -1,7 +1,5 @@
 .footer__gazpromneft-logo {
-  background-image: url(../../../images/footer-gazpromneft-logo.svg);
   width: 102px;
-  height: 37px;
   background-repeat: no-repeat;
   background-position: bottom;
 }
@@ -9,7 +7,6 @@
 @media screen and (max-width: 859px) {
   .footer__gazpromneft-logo {
     width: 66px;
-    height: 24px;
     background-size: contain;
   }
 }
